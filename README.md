@@ -1,1 +1,1 @@
-# Discord-Message-Spammer-Using-API
+# A discord message spammer using discords API
